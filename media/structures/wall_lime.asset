@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 521f9da1b76826c4f9d9d54368ed1862, type: 3}
+  m_Name: wall_lime
+  m_EditorClassIdentifier: 
+  id: 0
+  thumb: {fileID: 21300000, guid: 9aaf729b04cc298419b3852e58e0ea63, type: 3}
+  itemTitle: Lime Wall
+  itemDescription: 
+  isAvailable: 1
+  structure: {fileID: 10416540717265000, guid: f04e5e0b4e5bb55428b616d344a4e12e, type: 3}
+  placeholder: {fileID: 10416540717265000, guid: 7503876dedae8e1499ade93e412316be, type: 3}
+  constructionTime: 4
+  size: 2

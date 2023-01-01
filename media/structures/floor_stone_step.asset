@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 521f9da1b76826c4f9d9d54368ed1862, type: 3}
+  m_Name: floor_stone_step
+  m_EditorClassIdentifier: 
+  id: 0
+  thumb: {fileID: 21300000, guid: ddfa30200b711a84f8a719328fea5166, type: 3}
+  itemTitle: Stone Floor (Step)
+  itemDescription: 
+  isAvailable: 1
+  structure: {fileID: 3712182011406184010, guid: 2023ef8bbdae4594490d55c2286b46ce, type: 3}
+  placeholder: {fileID: 3712182011406184010, guid: 74fb93dac22869d49a4db5653bf77630, type: 3}
+  constructionTime: 4
+  size: 2

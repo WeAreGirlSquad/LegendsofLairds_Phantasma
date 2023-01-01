@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 521f9da1b76826c4f9d9d54368ed1862, type: 3}
+  m_Name: pillar_rock
+  m_EditorClassIdentifier: 
+  id: 0
+  thumb: {fileID: 21300000, guid: 7edcc820834017e429e0b1214ccf5421, type: 3}
+  itemTitle: Rock Pillar
+  itemDescription: 
+  isAvailable: 1
+  structure: {fileID: 7583172287049124231, guid: cb4073f1260cfe84db270d09569d5b06, type: 3}
+  placeholder: {fileID: 7583172287049124231, guid: b3e02655ecfe1444fb3d8f124e4dd845, type: 3}
+  constructionTime: 4
+  size: 0

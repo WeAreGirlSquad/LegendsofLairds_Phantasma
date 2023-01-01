@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 521f9da1b76826c4f9d9d54368ed1862, type: 3}
+  m_Name: wall_wood
+  m_EditorClassIdentifier: 
+  id: 0
+  thumb: {fileID: 21300000, guid: a2d4f643d502833468382cdc5460781d, type: 3}
+  itemTitle: Wooden Wall
+  itemDescription: 
+  isAvailable: 1
+  structure: {fileID: 8998694002718745373, guid: 5e5d5dac54414324293fd0f7428cd98f, type: 3}
+  placeholder: {fileID: 8998694002718745373, guid: a51ee93440c51e94285ae6f646a6fa5c, type: 3}
+  constructionTime: 4
+  size: 0

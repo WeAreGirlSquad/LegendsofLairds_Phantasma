@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 521f9da1b76826c4f9d9d54368ed1862, type: 3}
+  m_Name: fire_place
+  m_EditorClassIdentifier: 
+  id: 0
+  thumb: {fileID: 21300000, guid: e846688da063b95409e4b9aa9c94f875, type: 3}
+  itemTitle: Fire Place
+  itemDescription: 
+  isAvailable: 1
+  structure: {fileID: 761426141042799589, guid: caa9e4b684b3d4f49b72144085c8aaad, type: 3}
+  placeholder: {fileID: 761426141042799589, guid: 463527d198a6a084abd2eb65930a7a91, type: 3}
+  constructionTime: 4
+  size: 1
