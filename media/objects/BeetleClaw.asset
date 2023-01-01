@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8daa668e4408ad45a39e0a7812b16b8, type: 3}
+  m_Name: BeetleClaw
+  m_EditorClassIdentifier: 
+  id: 0
+  thumb: {fileID: 21300000, guid: b0757c6e21bef6f47a3bb73caba4f46c, type: 3}
+  itemTitle: Beetle Claw
+  itemDescription: Beetle Claws are tough and colorful
+  category: 1
+  compositeCategory: 0
+  isConsumable: 0
+  isComposite: 1
+  isWearable: 0
+  isPaintable: 0
+  basecolor: {r: 0, g: 0.31493092, b: 1, a: 0}
+  tartan: {fileID: 0}
+  hp: 0
+  ph: 0
+  power: 1
