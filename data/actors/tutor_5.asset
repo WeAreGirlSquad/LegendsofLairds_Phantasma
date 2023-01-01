@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3df5ffcbdfbb8d74ca578a8fdca94914, type: 3}
+  m_Name: tutor_5
+  m_EditorClassIdentifier: 
+  actorname: Sher
+  avatar: {fileID: 21300000, guid: 4e564f272f6637043b9b25979c169ba0, type: 3}
+  dialogues:
+  - Why we are wearing this cloth? What do you mean you do not know? Were you from
+    the last wave?
+  - Well, the gates are only for the priests of the Trivitium. They performed a ritual
+    on us, remember?
+  - Ah, you don't remember much. Don't worry, it will come back in time. For some
+    longer than others.
+  ai: 2

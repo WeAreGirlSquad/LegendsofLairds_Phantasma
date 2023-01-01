@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3df5ffcbdfbb8d74ca578a8fdca94914, type: 3}
+  m_Name: _23_dungeons
+  m_EditorClassIdentifier: 
+  actorname: Sher'Kan
+  avatar: {fileID: 21300000, guid: 0fda33036f1a2b546a5d77cf7bf8ce26, type: 3}
+  dialogues:
+  - Certain areas might lead to a place you have to complete, Lander. These dungeons
+    can be mazes full of
+  - traps and monsters. Depending on your quest, a dungeon might hold a great treasure
+    protected by a foe
+  - 'who might be formidable or leads to a legendary outcome. '
+  - Some dungeons can only be found if you are in possession of a magical object
+    holding its map, Lander.
+  - These Enefties are able to cast entire dungeons that would only allow with courage
+    to enter.
+  ai: 0

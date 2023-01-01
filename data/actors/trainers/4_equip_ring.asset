@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3df5ffcbdfbb8d74ca578a8fdca94914, type: 3}
+  m_Name: 4_equip_ring
+  m_EditorClassIdentifier: 
+  actorname: Q'lok
+  avatar: {fileID: 21300000, guid: e525be57456b317479aa429125ee6cbf, type: 3}
+  dialogues:
+  - Looks like you are not carrying a lot of gear, Lander. This is a dangerous world,
+    so don't go unarmed.
+  - When you craft or find new weapons - take a look at your inventory to equip your
+    weapon from it.
+  - Access your inventory by pressing    <voffset=0.3em> <sprite="KeySample" index=35><voffset=0em>
+  - Once you have equiped a weapon, you can access it quickly from your weapon ring.
+  - To access your weapon ring, press    <voffset=0.3em> <sprite="KeySample" index=24><voffset=0em>
+  ai: 0

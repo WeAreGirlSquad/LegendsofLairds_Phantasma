@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3df5ffcbdfbb8d74ca578a8fdca94914, type: 3}
+  m_Name: _21_intuition
+  m_EditorClassIdentifier: 
+  actorname: Weslei
+  avatar: {fileID: 21300000, guid: c82e953dc2d2e4f4da2d66d321bf6098, type: 3}
+  dialogues:
+  - Do you feel it, Lander? Intuition is more than trusting your gut feeling. Especially
+    hunters have to
+  - 'trust on their senses to aim for a perfect hit without enduring harm. '
+  ai: 0
