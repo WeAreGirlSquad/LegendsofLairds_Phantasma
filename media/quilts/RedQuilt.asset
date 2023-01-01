@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bf17637666dea642b96307cf4aa5e76, type: 3}
+  m_Name: RedQuilt
+  m_EditorClassIdentifier: 
+  id: 4
+  thumb: {fileID: 21300000, guid: ea864735159caac42a3054127b00e4cc, type: 3}
+  itemTitle: Red Quilt
+  itemDescription: A simple red quilt
+  isAvailable: 1
+  leather: 2
+  rope: 1
+  dye: 3
